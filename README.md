@@ -29,8 +29,6 @@ If the robot inputs are backwords, just change the sign for the motor values.
 
 ## Authors
 
-Contributors names and contact info
-
 Tyler Moody 
 
 ## Version History
