@@ -1,3 +1,4 @@
+
 # NetworkRobot
 
 * User will be able to control the robot over a network connection.
@@ -5,8 +6,8 @@
 
 ## Description
 
-This project runs on a host pc and a rasberry pi. The host pc receives inputs from a video game controller and sends the axis inputs over a socket to the robot. 
-Once the robot receive the inputs, it sends commands to the motors on the chassis. The robot simultainously sends a video stream to the host pc. 
+This project runs on a host pc and a Raspberry Pi. The host pc receives inputs from a video game controller and sends the axis inputs over a socket to the robot. 
+Once the robot receives the inputs, it sends commands to the motors on the chassis. The robot simultaneously sends a video stream to the host pc. 
 
 ## Getting Started
 
@@ -25,7 +26,7 @@ Once the robot receive the inputs, it sends commands to the motors on the chassi
 
 ## Help
 
-If the robot inputs are backwords, just change the sign for the motor values.
+If the robot inputs are backwards, just change the sign for the motor values.
 
 ## Authors
 
