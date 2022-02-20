@@ -33,8 +33,8 @@ If the robot inputs are backwards, just change the sign for the motor values.
 Tyler Moody 
 
 # Resources
-https://picamera.readthedocs.io/en/release-1.10/recipes1.html
-more to be added..
+* https://picamera.readthedocs.io/en/release-1.10/recipes1.html
+* more to be added..
 
 ## Version History
 
