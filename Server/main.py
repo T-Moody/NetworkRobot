@@ -7,7 +7,7 @@ import Controller as joyStick
 
 # Start server
 socketserver = socket.socket()
-host = '192.168.1.70'
+host = ''
 port = 8000
 socketserver.bind((host, port))
 socketserver.listen(5)
