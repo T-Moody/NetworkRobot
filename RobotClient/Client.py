@@ -14,7 +14,7 @@ s = socket.socket()
 port = 8000
 
 # connect to the server on local computer
-s.connect(('192.168.1.70', port))
+s.connect(('', port))
 
 # Start video stream
 thread = Thread(target=StreamStart.stream, args=(s,))
